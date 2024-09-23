@@ -1,0 +1,6 @@
+# Ignoing files type .class
+*.class
+
+# Ignore the diectories out ant build
+out/
+build/
